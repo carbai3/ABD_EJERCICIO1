@@ -1,0 +1,29 @@
+BAJA LOGICA
+BAJA DE COLECTIVO/PASAJERO
+
+DESCUENTO PARA USUARIOS despues de tantos pasajes
+
+DESCUENTO PARA CUANDO UN CO
+mandar email?
+
+
+
+
+
+
+
+90s Country
+https://open.spotify.com/playlist/37i9dQZF1DWVpjAJGB70vU
+
+classicHardCore
+https://open.spotify.com/playlist/37i9dQZF1DXaGNG7NmtmZv
+
+nombre apellido
+email 
+contraseña
+telefono 
+	
+desea recibir nuestras novedades?
+NUESTROS ARTISTAS EN 
+error input border rojo
+a ese input le tengo que dar class list la clase error
