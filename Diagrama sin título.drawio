@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.8">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1583" dy="362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2107" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -328,15 +328,15 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KjpsFcy1RpsCtuFp5Zte-1" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="36W9TTaz1gDTh8flbX_E-55">
+        <mxCell id="KjpsFcy1RpsCtuFp5Zte-1" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="36W9TTaz1gDTh8flbX_E-55" vertex="1">
           <mxGeometry y="210" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KjpsFcy1RpsCtuFp5Zte-2" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="KjpsFcy1RpsCtuFp5Zte-1">
+        <mxCell id="KjpsFcy1RpsCtuFp5Zte-2" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="KjpsFcy1RpsCtuFp5Zte-1" vertex="1">
           <mxGeometry width="30" height="30" as="geometry">
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KjpsFcy1RpsCtuFp5Zte-3" value="id_cliente&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; int" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="KjpsFcy1RpsCtuFp5Zte-1">
+        <mxCell id="KjpsFcy1RpsCtuFp5Zte-3" value="id_cliente&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; int" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="KjpsFcy1RpsCtuFp5Zte-1" vertex="1">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -523,6 +523,9 @@
             <mxPoint x="-110" y="660" as="sourcePoint" />
             <mxPoint x="50" y="660" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vflCk6RYe9dL-XcBZ0cn-1" value="&lt;table style=&quot;table-layout: fixed; font-size: 10pt; font-family: Arial; width: 0px; border-collapse: collapse; border: none;&quot; data-sheets-baot=&quot;1&quot; data-sheets-root=&quot;1&quot; border=&quot;1&quot; dir=&quot;ltr&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;107&quot;&gt;&lt;col width=&quot;107&quot;&gt;&lt;col width=&quot;126&quot;&gt;&lt;col width=&quot;137&quot;&gt;&lt;col width=&quot;111&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height: 21px;&quot;&gt;&lt;td style=&quot;border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); border-image: initial; font-size: 13.3333px; text-align: start; text-wrap: wrap; overflow: visible; padding: 2px 0px; vertical-align: bottom;&quot;&gt;&lt;div style=&quot;text-wrap: nowrap; overflow: hidden; position: relative; width: 587px; left: 3px;&quot;&gt;&lt;div style=&quot;float: left;&quot;&gt;inmueble={id_inmueble,codigo_interno,domicilio,localidad,cant_huspedes,estado,precio}&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;td style=&quot;border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); border-image: initial; font-size: 13.3333px; text-align: start; text-wrap: wrap; overflow: hidden; padding: 2px 3px; vertical-align: bottom;&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); border-image: initial; font-size: 13.3333px; text-align: start; text-wrap: wrap; overflow: hidden; padding: 2px 3px; vertical-align: bottom;&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); border-image: initial; font-size: 13.3333px; text-align: start; text-wrap: wrap; overflow: hidden; padding: 2px 3px; vertical-align: bottom;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-275" y="740" width="610" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
